@@ -102,27 +102,10 @@ Desktop GIS solution for managing thousands of election centers using Google Map
 
 ### Attendance Manager
 
-Fingerprint attendance processing system with Excel reporting and payroll calculations.
+Fingerprint attendance processing system.
 
 ---
 
-### Law PDF Uploader
-
-Automated PDF processing and SQL Server upload utility.
-
----
-
-## GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=it2121&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it2121&layout=compact&hide_border=true"/>
-
-</p>
-
----
 
 ## What I Enjoy Building
 
