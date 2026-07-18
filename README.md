@@ -1,133 +1,21 @@
 # Mohammed Talib Aziz
 
-Software Engineer from Iraq specializing in modern .NET applications, ERP systems, enterprise software, and SQL Server solutions.
+**Software Engineer** focused on building reliable business software with the Microsoft ecosystem.
 
-I enjoy designing scalable business systems using Clean Architecture, CQRS, Domain-Driven Design, and modern web technologies.
+I enjoy turning complex business processes into clean, maintainable systems—from enterprise ERP platforms to automation tools and modern web applications. I'm always interested in thoughtful architecture, practical engineering, and software that delivers real value.
 
----
+### Tech
 
-## About Me
+`C#` · `.NET` · `Blazor` · `ASP.NET Core` · `SQL Server` · `EF Core` · `MudBlazor` · `Docker` · `Git`
 
-- 💼 Software Engineer
-- 🏗 Currently building **AtlasERP**
-- 💻 Full-stack .NET Developer
-- 🗄 SQL Server & Database Design
-- 🌐 REST API Development
-- 🎨 Blazor & MudBlazor
-- 📱 Desktop, Web and Mobile Development
-- 🚀 Always learning new technologies
+### Currently
 
----
+🚀 Building **AtlasERP** — a modern ERP platform designed for construction and contracting businesses.
 
-## Current Project
+### Philosophy
 
-### AtlasERP
-
-A modern ERP platform built specifically for construction and contracting companies.
-
-Features include
-
-- Accounting
-- Procurement
-- Inventory
-- Warehousing
-- HR
-- Payroll
-- CRM
-- Project Management
-- Document Management
-- Reporting
-- Role-based Security
+> *Build software that's easy to understand, reliable to maintain, and enjoyable to use.*
 
 ---
 
-## Technology Stack
-
-### Backend
-
-- C#
-- .NET 9
-- ASP.NET Core Web API
-- Entity Framework Core
-- MediatR
-- FluentValidation
-- Mapster
-- SQL Server
-
-### Frontend
-
-- Blazor
-- MudBlazor
-- HTML
-- CSS
-- JavaScript
-
-### Architecture
-
-- Clean Architecture
-- CQRS
-- Repository Pattern
-- Domain Driven Design
-- SOLID Principles
-
-### DevOps
-
-- Git
-- GitHub
-- Docker
-- Swagger
-- Serilog
-
----
-
-## Featured Projects
-
-### AtlasERP
-
-Modern ERP platform for construction companies.
-
----
-
-### Spending Keeper
-
-Personal finance and spending management application.
-
----
-
-### Election Mapping System
-
-Desktop GIS solution for managing thousands of election centers using Google Maps integration.
-
----
-
-### Attendance Manager
-
-Fingerprint attendance processing system.
-
----
-
-
-## What I Enjoy Building
-
-- Enterprise Software
-- ERP Systems
-- Financial Systems
-- Desktop Applications
-- Modern Web Applications
-- SQL Server Solutions
-- REST APIs
-- Automation Tools
-
----
-
-## Let's Connect
-
-📧 Email: your@email.com
-
-💼 LinkedIn
-
-🌐 Portfolio
-
----
-
-> *"Good software solves business problems, not just technical ones."*
+*"The best solutions are often the simplest ones."*
