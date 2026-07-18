@@ -12,10 +12,4 @@ I enjoy turning complex business processes into clean, maintainable systems—fr
 
 🚀 Building **AtlasERP** — a modern ERP platform designed for construction and contracting businesses.
 
-### Philosophy
 
-> *Build software that's easy to understand, reliable to maintain, and enjoyable to use.*
-
----
-
-*"The best solutions are often the simplest ones."*
