@@ -27,6 +27,13 @@ I enjoy turning complex business processes into clean, maintainable systems—fr
   />
 </picture>
 
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 </div>
 
 ---
