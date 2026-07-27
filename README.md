@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFA000&width=435&lines=Mohammed+Talib)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFA000&width=435&lines=Mohammed+Talib)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFA000&width=435&lines=IT2121)](https://git.io/typing-svg)
+
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=FFA000&width=435&lines=IT2121)](https://git.io/typing-svg)
 
 
 **Software Engineer** focused on building reliable business software with the Microsoft ecosystem.
