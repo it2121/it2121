@@ -28,10 +28,7 @@ I enjoy turning complex business processes into clean, maintainable systems—fr
 </picture>
 
 
-[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
-
-![](https://hit.yhype.me/github/profile?account_id=it2121)
-
+![](https://komarev.com/ghpvc/?username=it2121&color=green)
 
 
 </div>
