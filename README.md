@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F739&width=435&lines=Mohammed+Talib)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F739&width=435&lines=it2121)](https://git.io/typing-svg) ![](https://komarev.com/ghpvc/?username=it2121&color=orange&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F739&width=435&lines=Mohammed+Talib)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=00F739&width=435&lines=it2121)](https://git.io/typing-svg)
 
 ---
 
@@ -28,7 +28,8 @@ I enjoy turning complex business processes into clean, maintainable systems—fr
 </picture>
 
 
-
+###
+ ![](https://komarev.com/ghpvc/?username=it2121&color=orange&style=for-the-badge)
 
 
 </div>
