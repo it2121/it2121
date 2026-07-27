@@ -29,10 +29,7 @@ I enjoy turning complex business processes into clean, maintainable systems—fr
 
 
 
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+![](https://komarev.com/ghpvc/?username=it2121)
 
 </div>
 
