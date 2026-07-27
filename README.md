@@ -28,7 +28,7 @@ I enjoy turning complex business processes into clean, maintainable systems—fr
 </picture>
 
 
-![](https://komarev.com/ghpvc/?username=it2121&color=green)
+![](https://komarev.com/ghpvc/?username=it2121&color=orange&style=for-the-badge)
 
 
 </div>
