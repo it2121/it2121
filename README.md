@@ -12,15 +12,15 @@ I enjoy turning complex business processes into clean, maintainable systems—fr
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
+    srcset="https://github.com/it2121/github-pacman/raw/output/pacman-contribution-graph-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+    srcset="https://github.com/it2121/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
   <img
     alt="Pacman contribution graph"
-    src="https://github.com/jkdevcode/github-pacman/raw/output/pacman-contribution-graph.svg"
+    src="https://github.com/it2121/github-pacman/raw/output/pacman-contribution-graph.svg"
   />
 </picture>
 
