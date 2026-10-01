@@ -48,7 +48,7 @@ I enjoy turning complex business processes into clean, maintainable systems—fr
 
 ### Currently
 
-🚀 Building **AtlasERP** — a modern ERP platform designed for construction and contracting businesses.
+🚀 Building **AtlasERP** and **Al-Nazir**
 
 
 -->
